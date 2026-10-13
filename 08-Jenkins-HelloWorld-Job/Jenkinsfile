@@ -1,0 +1,27 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Checkout') {
+            steps {
+                echo 'Code checked out from GitHub'
+                sh 'ls -la 08-Jenkins-HelloWorld-Job'
+            }
+        }
+        stage('Run Script') {
+            steps {
+                sh 'chmod +x 08-Jenkins-HelloWorld-Job/hello-world.sh'
+                sh './08-Jenkins-HelloWorld-Job/hello-world.sh'
+            }
+        }
+    }
+
+    post {
+        success {
+            echo 'Hello World job finished successfully'
+        }
+        failure {
+            echo 'Hello World job failed, check the console output'
+        }
+    }
+}
