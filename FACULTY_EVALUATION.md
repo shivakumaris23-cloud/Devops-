@@ -1,7 +1,7 @@
 ﻿# DevOps Lab — Faculty Evaluation Preparation
 
 ## Repository
-https://github.com/udayramageri09/devops-learning
+[https://github.com/udayramageri09/devops-learning](https://github.com/shivakumaris23-cloud/Devops-)
 
 ## Demonstrated Exercises
 
