@@ -4,6 +4,13 @@
 **USN:** 1BM23IS226  
 **Course:** DevOps Lab Execises
 
+## Documentation & Guides
+
+- 📊 **[Progress Tracker (PROGRESS.md)](./PROGRESS.md)** — Completion status, deliverables, and verification checklist for all 10 labs.
+- 📖 **[Revision Guide (RIVISION.md)](./RIVISION.md)** — Comprehensive cheatsheet, core concepts, and high-yield viva questions.
+- 🗺️ **[DevOps Roadmap (ROADMAP.md)](./ROADMAP.md)** — Step-by-step progression roadmap from lab basics to production cloud-native DevOps.
+- 🎓 **[Faculty Evaluation Guide (FACULTY_EVALUATION.md)](./FACULTY_EVALUATION.md)** — Evaluation demonstration checklist, verification commands, and service URLs.
+
 ## Exercises
 
 | No | Exercise | Topic | Tools |
