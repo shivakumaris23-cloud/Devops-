@@ -2,7 +2,7 @@
 
 **Name:** Shivakumar  
 **USN:** 1BM23IS226  
-**Course:** DevOps Lab  
+**Course:** DevOps Lab Execises
 
 ## Exercises
 
